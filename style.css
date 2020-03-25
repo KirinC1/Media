@@ -1,0 +1,41 @@
+.media {
+    text-align: center;
+    background: rgb(0, 0, 0);
+    width: 475px;
+    color: rgb(255, 255, 255, 0.90);
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.impact {
+    text-align: center;
+    width: 65%;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+
+}
+.hr {
+    width: 90%;
+    margin: auto;
+}
+
+.photo {
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    text-align: center;
+}
+
+.video {
+    text-align: center;
+    width: 65%;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: rgb(201, 210, 217);
+}
